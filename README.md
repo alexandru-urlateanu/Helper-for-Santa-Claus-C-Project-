@@ -18,7 +18,7 @@ oricât de multe, în funcție de numărul de fapte bune). Fiecare copil primeș
 -Pentru orice copil cuminte, numărul de fapte bune este cel puțin 10, în caz contrar, programul realizat trebuie să afişeze un mesaj corespunzător şi să îi permită lui Moş Crăciun să reintroducă
 valoarea.
 
-Programul devoltat:
+Programul dezvoltat:
 1. Permite memorarea, citirea și afișarea a n copii (indiferent că sunt cuminți sau  neastâmpărați).
 2. Permite pentru fiecare copil memorarea, citirea și afișarea a m jucării (indiferent de tipul acestora)
 3. Permite Moșului să găsească un copil după nume (dacă sunt mai mulţi copii cu nume similar, vor fi afişaţi toţi cei care au textul căutat în componenţa numelui lor)
