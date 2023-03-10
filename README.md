@@ -1,6 +1,7 @@
 # POO-Proiect-Mos-Craciun
 
 Programuil ii permite lui Mos Craciun sa tina evidența tuturor copiilor și a tuturor jucăriilor.
+
 Știm că moșul împarte jucării ce pot fi de mai multe tipuri, iar copiii pot fi copii cuminți, respectiv
 neastâmpărați.
 * Cunoaștem faptul că toate jucăriile au o denumire, o dimensiune (valoare numerică ce reprezintă volumul cutiei în care a fost ambalat), și un tip (exemplu: “figurină”, “papușă”, “roboțel”, “telefon”,
